@@ -1,4 +1,4 @@
-## Building a Logistic Regression Model on the Titanic Dataset: By Azeem Ali
+## Building a Logistic Regression Model on the Titanic Dataset - By Azeem Ali
 
 If you're new to data science or just looking to expand your knowledge, building a logistic regression model on the Titanic dataset is an excellent place to start. In this post, I'll walk you through the entire process, from data preprocessing to model training and evaluation.
 
